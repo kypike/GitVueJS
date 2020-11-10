@@ -1,0 +1,9 @@
+.container {
+  margin: 0 70px;
+}
+
+.container .logo a {
+  font-size: 24px;
+  color: #f5f5;
+  text-decoration: none;
+}
